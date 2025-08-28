@@ -2,7 +2,7 @@ import {  } from './components/'
 
 function App() {
   return (
-    <></>
+    <Header />
   )
 }
 
